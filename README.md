@@ -31,16 +31,6 @@ O jogo é executado no console e simula o jogo da forca com:
 - [x] Mensagens de fim de jogo (vitória/derrota)
 - [x] Organização por pacotes e classes
 
-## 📁 Estrutura de Pacotes
-
-```bash
-📦 forca
- ┣ 📂 model        → Contém classes como Palavra e Jogo
- ┣ 📂 view         → Exibe o estado da forca e interações com o usuário
- ┣ 📂 exception    → Contém exceções personalizadas
- ┣ 📂 util         → Ferramentas auxiliares (ex: gerador de palavras)
- ┣ Main.java       → Classe principal para execução
-
 ### 🖥️ Tecnologias Utilizadas 
 
 ✅ Java 17 (ou superior)
@@ -52,4 +42,31 @@ O jogo é executado no console e simula o jogo da forca com:
 ✅ Git e GitHub para versionamento
 
 ✅ IDEs como IntelliJ IDEA ou Eclipse
+
+### 📘 Aprendizados Pessoais
+Durante a construção deste projeto, aprofundei meus conhecimentos em:
+
+Organização de código com Java e POO
+
+Separação de camadas em projetos
+
+Tratamento de exceções
+
+Manipulação de texto e entrada do usuário
+
+Lógica de jogos baseada em estado
+
+Uso do GitHub como vitrine técnica
+
+
+## 📁 Estrutura de Pacotes
+
+```bash
+📦 forca
+ ┣ 📂 model        → Contém classes como Palavra e Jogo
+ ┣ 📂 view         → Exibe o estado da forca e interações com o usuário
+ ┣ 📂 exception    → Contém exceções personalizadas
+ ┣ 📂 util         → Ferramentas auxiliares (ex: gerador de palavras)
+ ┣ Main.java       → Classe principal para execução
+
 
